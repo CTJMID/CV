@@ -46,40 +46,24 @@ These skills were developed further when the company expanded to a multi-site op
 
 ## Skills
 
-Analystical Problem Solving
+# Analystical Problem Solving
 From my years in formal eductaion to my years working in the hospitality managment & operations, I have used my strong anylitical skills to prempt, break-down, solve and safe-gaurd my business from arsing issues.
-The impact of the changable Covid regulations on the operations of my site during 2020 and 2021 gave me an opportunity analytically breakdown these changes to our working day and creatively find processes to address them. The introduction  of table service, in a site with a team that had not previously worked this way, gave me an opportunity to not only improve the customer experience, but also train the team in a new on-the-job skill, and increase salesmanship within individuals. This was reflected in our improved customer satisfaction scores, the increased gratuities for the team, and the growth in site sales during this time. Druing the time that restrictions were in place, whilst the industry was in decline, we increased our KPIs, and delivered growth, leading the brand for a number of weeks.
+The impact of the changable Covid regulations on the operation of my site during 2020 and 2021 gave me an opportunity analytically breakdown these changes to our working day and creatively find processes to address them. The introduction  of table service, in a site with a team that had not previously worked this way, gave me an opportunity to not only improve the customer experience, but also train the team in a new on-the-job skill, and increase salesmanship within individuals. This was reflected in our improved customer satisfaction scores, the increased gratuities for the team, and the growth in site sales during this time. Druing the time that restrictions were in place, whilst the industry was in decline, we increased our KPIs, and delivered growth, leading the brand for a number of weeks.
 
-Entrepreneurial Business Growth
-I have a keen ideas based and entrepreneurial streak that has run through my career in hospitality. My own site was a country pub in Cambridgshire and I  amde it a priority to indentify my key markets. With a mix of events and product tailoring, I established a loyal customer base that helped me develop my business. 'Pie Nights', 'Charity Curry Cook-offs' & 'Kids Film Evenings' were all ideas that were generated in collaboration with my key customer demographics, and by listening to their feedback, I was able to run my business profitably, where previous operators had failed.
+# Entrepreneurial Business Growth
+I have a keen ideas-based entrepreneurial streak that has run through my career in hospitality. My own site was a country pub in Cambridgshire and I  amde it a priority to indentify my key markets. With a mix of events and product tailoring, I established a loyal customer base that helped me develop my business. 'Pie Nights', 'Charity Curry Cook-offs' & 'Kids Film Evenings' were all ideas that were generated in collaboration with my key customer demographics, and by listening to their feedback, I was able to run my business profitably, where previous operators had failed.
 
-Team Development
+# Team Development
 I am a very people orientated person & a natural leader, and recruiting and developing a group of individuals into a team is always a highlight of my job. The challenges of developing a group of individulas into a team, has always been one of communication, empathy and percieved value. Working in hosiptality, you work with a wide variety of people, with different expectaions, needs and wants from their job. In order to develop diverse groups into a team, you have to manage on an individual basis, encourage individuals to display their strengths, and value to the other team members. This can take time, but it isnt until all individuals respect the value of the members in it, before the team can function properly.
 
-People Development
+# People Development
+Managing individuals on a mentor/mentee basis has been invaluable to my development and I look to estbalish those relationships at all stages of my career. I find that being a mentor, you are forced develop yourself and your own working styles and skills, as well as guiding and coaching your mentee. My most recent mentee, in my previous role, helped me understand different ways of working, and different ways that people absorb concepts and ideas. In turn as a product of our developmental relationship I helped him acheive his ambition of securing an Assitant Manager poistion within our company.
 
 
-
-
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence (STAR)
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (December 2021 to April 2022)
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
@@ -88,16 +72,27 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Nottingham University (2009 to 2010)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Graduate Diploma in Law - Pass with Merit
 
-#### Any other qualifications
+#### Bristol Unoversity (2006 to 2009)
 
-That in some arguable way make you a better software developer or well-rounded person
+- BA Hons Philosophy: 2:1
+- including the module - Formal Logic: 63%
+- Outside of my study at University, I was heavily involved in Student Government, as the University Housing Officer, Entertainment & Events Co-ordiator, and I sat on the Government Steering Committee.
+
+#### Falmouth University of Art (2005 to 2006)
+
+- ABC Diploma in Art & Design - Pass with Merit
+
+#### Haileybury (2000 to 2005)
+
+- International Baccaleaureate - 39/45
+- including: Higher Level Maths - 6/7 & Higher Level Biology 7/7 & Higher Level Philosophy 7/7
+- I was awarded my school's Philosphy Prize, upon gradutaing.
+
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+Food, Films And Dogs encapsulate my interests pretty neatly. I lobve going out, trying new resturants or staying in and ooking for friends. I love cinema and the art of film, really delving deep into the history and process of making films. And I love my dog, he takes up huge part of my life, by my life has been better for it!
