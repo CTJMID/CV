@@ -9,9 +9,9 @@ I am excited by the possibilities and opportunities within the digital world, an
 <br />
 
 
-| NAME           | DESCRIPTION        | TECH & TOOLS  | 
+| NAME           | DESCRIPTION        | TECH & TOOLS  |
 | :------------------: |:---------------------:| :---------------:| 
-| [**Sonder**](https://github.com/CTJMID/Sonder)      | A webapp helping refugee mothers | MERN Stack, Jest, Cypress, React Testing Library | 
+| [**Sonder**](https://github.com/CTJMID/Sonder)  [see demo video here](https://www.youtube.com/watch?v=dR_X4hPhnkM)     | A webapp helping refugee mothers | MERN Stack, Jest, Cypress, React Testing Library,| 
 | [**Bank Program**](https://github.com/CTJMID/)      | A back-end banking app    | JS, Jest | 
 | [**Makers BnB**](https://github.com/CTJMID/MakersBnB ) | A clone of Air B'n'B| Ruby, Sinatra, Rspec, Capybara|
  <br />
