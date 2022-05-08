@@ -11,7 +11,7 @@ I am excited by the possibilities and opportunities within the digital world, an
 
 | NAME           | DESCRIPTION        | TECH & TOOLS  |
 | :------------------: |:---------------------:| :---------------:| 
-| [**Sonder**](https://github.com/CTJMID/Sonder)  [see demo video here](https://www.youtube.com/watch?v=dR_X4hPhnkM)     | A webapp helping refugee mothers | MERN Stack, Jest, Cypress, React Testing Library,| 
+| [**Sonder**](https://github.com/CTJMID/Sonder)  [(demo)](https://www.youtube.com/watch?v=dR_X4hPhnkM)     | A webapp helping refugee mothers | MERN Stack, Jest, Cypress, React Testing Library,| 
 | [**Bank Program**](https://github.com/CTJMID/)      | A back-end banking app    | JS, Jest | 
 | [**Makers BnB**](https://github.com/CTJMID/MakersBnB ) | A clone of Air B'n'B| Ruby, Sinatra, Rspec, Capybara|
  <br />
@@ -94,9 +94,9 @@ These skills were developed further when the company expanded to a multi-site op
 ### *Analytical Problem Solving*
 
 
-The impact of changeable Covid-regulations on my business put my analytical skills to the test; a careful problem-solving approach was required to balance these conditions, and meet the expectations of the business.
+The impact of changeable Covid-regulations on my business at The Goat put my analytical skills to the test; a careful problem-solving approach was required to balance these regulatory conditions, and meet the expectations of the business.
 
-By  breaking down the challenge, gaining alternative persepectives, remaining adaptable and reflecting on the outcome was essential to our eventual sucess during this period of trade.
+Breaking down the challenges, gaining differing perspectives, remaining adaptable and reflecting on the outcome was essential to our eventual success during this period of trade.
 
 The introduction of table service to team that had not previously worked this way, gave me an opportunity to not only improve the customer experience, but also develop the team in a new on-the-job skill, and encourage salesmanship within individuals. This was reflected in our improved customer satisfaction scores, the increased gratuities for the team, and the growth in site sales during this time. During the time that restrictions were in place, whilst the industry was in decline, we increased our KPIs, and delivered growth, leading the brand for several weeks.
 
@@ -113,9 +113,11 @@ With a mix of events and product tailoring, I established a loyal customer base 
 
 ### *Team Development*
 
-I am a people-orientated person & a natural leader; recruiting and developing a group of individuals into a function team has always been highlight of my role.
+I am a people-orientated person & a natural leader; recruiting and developing a group of individuals into a functioning team has always been highlight of my role.
 
-To develop diverse groups into functioning teams, I have had to manage on an individual basis empathising and encouraging employees to develop their strengths and value to the other team members.
+To develop diverse groups into functioning teams, I have had to manage on an individual basis emphasising and encouraging employees to develop their strengths and value to the other team members.
+
+When a mutual level of resepct and acknowledgement of value runs through teams it can optimally function. My greatest successes in my career have resulted from teams that progress to this level.
 
  <br />
 
@@ -125,7 +127,7 @@ Managing individuals on a mentor/mentee basis has been invaluable to my developm
 
 I find the mentor role forces you to develop your own working styles and skills, as well as guiding and coaching your mentee.
 
-My most recent mentee, in my previous role, helped me understand different ways of working, and different ways that people absorb concepts and ideas. In turn as a product of our developmental relationship I helped him achieve his ambition of securing an Assistant Manager position within our company.
+For example, my most recent mentee, in my previous role, helped me understand different ways of working, and alternative ways that people absorb concepts and ideas. In turn, as a product of our developmental relationship I helped him achieve his ambition of securing an Assistant Manager position within our company.
 
 <br />
 <br />
