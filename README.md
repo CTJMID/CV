@@ -115,9 +115,9 @@ With a mix of events and product tailoring, I established a loyal customer base 
 
 I am a people-orientated person & a natural leader; recruiting and developing a group of individuals into a functioning team has always been highlight of my role.
 
-To develop diverse groups into functioning teams, I have had to manage on an individual basis emphasising and encouraging employees to develop their strengths and value to the other team members.
+To develop diverse groups into functioning teams, I have had to manage on an individual basis, emphasising and encouraging employees to develop their strengths and value to the other team members.
 
-When a mutual level of resepct and acknowledgement of value runs through teams it can optimally function. My greatest successes in my career have resulted from teams that progress to this level.
+Teams function optimally when a mutual level of respect and acknowledgement of value runs through them between individuals. The greatest successes in my career have resulted from teams that I have helped mould to this point.
 
  <br />
 
