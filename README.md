@@ -17,12 +17,9 @@ I am excited by the possibilities and opportunities within the digital world, an
  <br />
 
 ## **Work Experience**
-<br />
 
 ### **Mitchells & Butler - The Goat, Clapham (July 2019 to December 2021)**
 **General Manager**
-
- <br />
 
 I led operations & development of the business to deliver on metrics in profit & growth, team satisfaction, customer satisfaction, and health & safety:
 
@@ -48,21 +45,26 @@ These management skills are transferable to the Tech Industry. I have demonstrat
 
  <br />
 
-### **Fowlmere Pubs Ltd - The Chequers, Fowlmere (April 2017 to May 2019)**
-#### **Managing Director**
+### **Managing Director** 
+#### **Fowlmere Pubs Ltd - The Chequers, Fowlmere (April 2017 to May 2019)**
 
  
 
-As the sole company director, I established, developed and eventually sold my business for at 120% of the purchase price, making considerable profit.
+As the sole company director:
+
+- negotiated purchase of the lease for my business venue, dealt with finaceers, and creditors and oversaw a budgeted renovation in order to establish my buisness
+- developed my business at my site by overseeing all operations, including recruitment, people development, marketing and customer relations, resulting in monthly agrregate profit.
+- sold my business lease for 120% of the purchase price, making considerable profit.
 
  
 
-My skills in analytical problem solving, innovation, delegation, team development and leadership were put to the test, and it was essential that I used these, and improved upon them with an adaptable and resilient approach, in order to operate and grow the business.
+My skills in analytical problem solving, innovation, delegation, team development and leadership were put to the test; it was essential that I used these, and improved upon them with an adaptable and resilient approach, in order to operate and grow the business.
 
  <br />
 
-### **The Three Tuns, Ashwell (August 2013 - April 2019)**
-#### **General Manager - Multi-site Manager**
+### **General Manager/ Multi-site Manager**
+#### **The Three Tuns, Ashwell (August 2013 - April 2019)**
+
 
  
 My time at The Three Tuns consolidated my introductory experience to management and business operations.
@@ -79,12 +81,9 @@ Skills that were improved during this time included:
 
 - delegation, communication & business organisation
 
- <br />
-
 
 These skills were developed further when the company expanded to a multi-site operation and I was offered a position overseeing all sites simultaneously.
 
-<br />
 <br />
 
 
@@ -92,7 +91,6 @@ These skills were developed further when the company expanded to a multi-site op
 
 
 ### *Analytical Problem Solving*
-
 
 The impact of changeable Covid-regulations on my business at The Goat put my analytical skills to the test; a careful problem-solving approach was required to balance these regulatory conditions, and meet the expectations of the business.
 
@@ -130,11 +128,8 @@ I find the mentor role forces you to develop your own working styles and skills,
 For example, my most recent mentee, in my previous role, helped me understand different ways of working, and alternative ways that people absorb concepts and ideas. In turn, as a product of our developmental relationship I helped him achieve his ambition of securing an Assistant Manager position within our company.
 
 <br />
-<br />
 
 ## **Education**
-
- 
 
 ### Makers Academy (December 2021 to April 2022)
 
