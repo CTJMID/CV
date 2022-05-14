@@ -1,10 +1,13 @@
 # ***Christopher Middleton***
 
- 
+An ambitious full-stack developer combining adept skills in software engineering, and considerable experience of business development, ownership, operations and management gained through a 12-year career in hospitality. 
 
-An ambitious & entrepreneurial full-stack developer combining newly adept skills in software engineering, and considerable experience of business development, operations and management gained through a 12-year career in hospitality. 
+Software engineering balances rigourous logic and anlystical problem solving with lateral thinking and creativity; mirroring my formal education in law, philosophy and fine art; culminating in my recent graduation from the Makers Academy. 
 
-I am excited by the possibilities and opportunities within the digital world, and my time at Makers has only encouraged my drive and curiosity in this sector.
+I am a looking for a role where I can develop my entreupenerial skills in business growth, my experience managing and developing teams and people, whilst meeting commercial and social opportunities with digital solutions.
+
+The shift to a digital world should not be a compromise between 'old' and 'new'; rather it should be overwhelmingly positive and I look forward to being involved in an organisation that can make this happen.
+
 <br />
 <br />
 
@@ -52,9 +55,10 @@ These management skills are transferable to the Tech Industry. I have demonstrat
 
 As the sole company director:
 
-- negotiated purchase of the lease for my business venue, dealt with finaceers, and creditors and oversaw a budgeted renovation in order to establish my buisness
-- developed my business at my site by overseeing all operations, including recruitment, people development, marketing and customer relations, resulting in monthly agrregate profit.
-- sold my business lease for 120% of the purchase price, making considerable profit.
+- I negotiated purchase of the lease for my business venue, dealt with financiers, creditors and oversaw a budgeted renovation in order to establish my business.
+- I developed my business by overseeing all operations, including recruitment, product, people development, marketing and customer relations, resulting annual profit in my second year.
+- I sold my business for at 120% of the purchase price, making considerable profit.
+
 
  
 
