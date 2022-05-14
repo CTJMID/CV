@@ -2,9 +2,9 @@
 
 An ambitious full-stack developer combining adept skills in software engineering, and considerable experience of business development, ownership, operations and management gained through a 12-year career in hospitality. 
 
-Software engineering balances rigourous logic and analytical problem solving with lateral thinking and creativity; mirroring my formal education in law, philosophy and fine art; culminating in my recent graduation from the Makers Academy. 
+Software engineering balances rigourous logic and analytical problem solving with lateral thinking and creativity. This mirrors my formal education in law, philosophy and fine art; culminating in my recent graduation from the Makers Academy. 
 
-I am a looking for a role where I can develop my entreupenerial skills in business growth, my experience managing and developing teams and people, whilst meeting commercial and social opportunities with digital solutions.
+I am a looking for a role where I can develop my entrepreneurial skills in business growth and my experience managing and developing teams and people, whilst meeting commercial and social challenges with digital solutions.
 
 The shift to a digital world should not be a compromise between 'old' and 'new'; rather it should be overwhelmingly positive and I look forward to being involved in an organisation that can help make this happen.
 
@@ -26,7 +26,7 @@ The shift to a digital world should not be a compromise between 'old' and 'new';
 
 I led operations & development of the business to deliver on metrics in profit & growth, team satisfaction, customer satisfaction, and health & safety:
 
- <br />
+
 
 - ***Profit & Growth:*** I delivered budget, despite the challenges the business faced by the pandemic, and oversaw a 5% turnover growth (and volume growth), in my last quarter. Key to this was the organisation & implementation of events and key sporting dates, e.g. The Goat was 2nd in the brand, in £'s and % growth for the Euro's 2021 competition (versus the same period in FY19)
 
@@ -93,7 +93,7 @@ I advised the grass-roots 'Black Cap Community Committee' - a group attempting t
 Specifically, I wrote a detailed report on how to structure a business plan specifically for the Black Cap, and a separate report on venue acquistion, drawing on the experince of owning my own business, and constructing business plans for The Goat.
 
 #### **Greene King - various venues -  2014-2016**
-I shadowed my mentor, over a 2 year period, whilst he conducted on-demand consultancy work for Greene King's leasehold portfolio in North Hertfordshire. This provided me invaluable experience into operations and management, but overall, I most enjoyed discussing and troubleshooting business challenges with external operators.
+I shadowed my mentor, over a 2 year period, whilst he conducted on-demand consultancy work for Greene King's leasehold portfolio in North Hertfordshire. This provided me invaluable experience into operations and management, but overall, I most enjoyed discussing business challenges and troubleshooting solutions with external operators.
 
 <br />
 
@@ -104,16 +104,16 @@ I shadowed my mentor, over a 2 year period, whilst he conducted on-demand consul
 
 ### *Analytical Problem Solving*
 
-The impact of changeable Covid-regulations on my business at The Goat put my analytical skills to the test; a careful problem-solving approach was required to balance these regulatory conditions, and meet the expectations of the business.
+As manager of The Goat during Covid-19, it was my responsibility to solve new and complex challenges that arose while operating in changing conditions. Breaking down the challenges, gaining differing perspectives, remaining adaptable and reflecting on the outcome was essential to our eventual success during this period of trade.
 
-Breaking down the challenges, gaining differing perspectives, remaining adaptable and reflecting on the outcome was essential to our eventual success during this period of trade.
+The introduction of table service was one adaption I implemented at speed which ultimately improved our customer satisfaction scores and increased sales and tips. In an industry in decline, we increased our KPIs and became brand leaders for several weeks.
 
-The introduction of table service to team that had not previously worked this way, gave me an opportunity to not only improve the customer experience, but also develop the team in a new on-the-job skill, and encourage salesmanship within individuals. This was reflected in our improved customer satisfaction scores, the increased gratuities for the team, and the growth in site sales during this time. During the time that restrictions were in place, whilst the industry was in decline, we increased our KPIs, and delivered growth, leading the brand for several weeks.
+I’ve been able to adopt the same solution-focused and experimental approach to code with success. A key example of this was when we were asked to convert our vanilla JavaScript app to a MERN stack app, on our 2nd Engineering Project during the Maker's course.
 
 
  <br />
 
-### *Entrepreneurial Business Growth*
+### *Entrepreneurial Mindset*
 
 I have a keen innovative entrepreneurial streak demonstrated by my career in hospitality. My own site was a country pub in Cambridgeshire. I made it a priority to identify my key markets, elicit feedback and deliver over-an-above on their needs.
 
@@ -123,11 +123,11 @@ With a mix of events and product tailoring, I established a loyal customer base 
 
 ### *Team Development*
 
-I am a people-orientated person & a natural leader; recruiting and developing a group of individuals into a functioning team has always been highlight of my role.
+I am a people-orientated person and a natural leader; recruiting and developing a group of individuals into a functioning team has always been highlight of my role.
 
 To develop diverse groups into functioning teams, I have had to manage on an individual basis, emphasising and encouraging employees to develop their strengths and value to the other team members.
 
-Teams function optimally when a mutual level of respect and acknowledgement of value runs through them between individuals. The greatest successes in my career have resulted from teams that I have helped mould to this point.
+Teams function optimally when a mutual level of respect and acknowledgement of value runs through them between individuals. The greatest successes in my career have resulted from teams that I have helped mould to this point, explified by my team at The Chequers, and the team at The Goat.
 
  <br />
 
@@ -137,35 +137,28 @@ Managing individuals on a mentor/mentee basis has been invaluable to my developm
 
 I find the mentor role forces you to develop your own working styles and skills, as well as guiding and coaching your mentee.
 
-For example, my most recent mentee, in my previous role, helped me understand different ways of working, and alternative ways that people absorb concepts and ideas. In turn, as a product of our developmental relationship I helped him achieve his ambition of securing an Assistant Manager position within our company.
+For example, my most recent mentee, helped me understand different ways of working, and alternative ways that people absorb concepts and ideas. In turn, as a product of our developmental relationship I helped him achieve his ambition of securing an Assistant Manager position within our company.
 
 <br />
 
 ## **Education**
 
-### Makers Academy (December 2021 to April 2022)
+### **Makers Academy** (December 2021 to April 2022)
 
 - A 16 week, intensive coding course that empahsised the principles of OOP, TDD and Agile Project Work
 
-- Ruby, JavaScript, MERN Stack
+- Ruby, JavaScript, MERN Stack, Sinatra, HTML, CSS
 
 - RSpec, Jest, React Testing Library, Cypress
 
  
 
-### Nottingham University (2009 to 2010)
+### **Graduate Diploma in Law** - Nottingham University (2009 to 2010) - Pass with Merit
+
 
  
 
-- Graduate Diploma in Law - Pass with Merit
-
- 
-
-### Bristol University (2006 to 2009)
-
- 
-
-- BA Hons Philosophy: 2:1
+### **BA Hons Philosophy** - Bristol University (2006 to 2009) - 2:1
 
 - including the module - Formal Logic: 63%
 
@@ -173,20 +166,10 @@ For example, my most recent mentee, in my previous role, helped me understand di
 
  
 
-### Falmouth University of Art (2005 to 2006)
-
+### **ABC Diploma in Art & Design** - Falmouth University of Art (2005 to 2006)- Pass with Merit
  
 
-- ABC Diploma in Art & Design - Pass with Merit
-
- 
-
-### Haileybury (2000 to 2005)
-
- 
-
-- International Baccalaureate - 39/45
-
+### **International Baccalaureate** - Haileybury (2000 to 2005) - 39/45 -
 - including: Higher Level Maths - 6/7 & Higher Level Biology 7/7 & Higher Level Philosophy 7/7
 
 - I was awarded my school's Philosophy Prize, upon graduating.
@@ -199,6 +182,6 @@ For example, my most recent mentee, in my previous role, helped me understand di
 
  
 
-Food, films and dogs encapsulate my interests pretty neatly. I love finding new restaurants or staying in a cooking extravagant meals for friends. I love cinema and the art of film, really delving deep into the history and process of making films. And I love my dog, he takes up a big part of my life, by my life has been better for it!
+Food, films and dogs encapsulate my interests pretty neatly. I love finding new restaurants or staying in a cooking extravagant meals for friends. I love cinema and the art of film, really delving deep into the history and process of making films. And I love my dog, he takes up a big part of my life, but my life has been better for it!
 
  
