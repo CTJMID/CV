@@ -2,11 +2,11 @@
 
 An ambitious full-stack developer combining adept skills in software engineering, and considerable experience of business development, ownership, operations and management gained through a 12-year career in hospitality. 
 
-Software engineering balances rigourous logic and anlystical problem solving with lateral thinking and creativity; mirroring my formal education in law, philosophy and fine art; culminating in my recent graduation from the Makers Academy. 
+Software engineering balances rigourous logic and analytical problem solving with lateral thinking and creativity; mirroring my formal education in law, philosophy and fine art; culminating in my recent graduation from the Makers Academy. 
 
 I am a looking for a role where I can develop my entreupenerial skills in business growth, my experience managing and developing teams and people, whilst meeting commercial and social opportunities with digital solutions.
 
-The shift to a digital world should not be a compromise between 'old' and 'new'; rather it should be overwhelmingly positive and I look forward to being involved in an organisation that can make this happen.
+The shift to a digital world should not be a compromise between 'old' and 'new'; rather it should be overwhelmingly positive and I look forward to being involved in an organisation that can help make this happen.
 
 <br />
 <br />
@@ -28,23 +28,19 @@ I led operations & development of the business to deliver on metrics in profit &
 
  <br />
 
-- *Profit & Growth:* I delivered budget, despite the challenges that the pandemic presented, and oversaw a 5% turnover growth, as well as volume growth, in my last quarter. Key to this was the organisation & implementation of events and key sporting dates, e.g. The Goat was 2nd in the brand, in £'s and % growth for the Euro's 2021 competition (versus the same period in FY19)
+- ***Profit & Growth:*** I delivered budget, despite the challenges the business faced by the pandemic, and oversaw a 5% turnover growth (and volume growth), in my last quarter. Key to this was the organisation & implementation of events and key sporting dates, e.g. The Goat was 2nd in the brand, in £'s and % growth for the Euro's 2021 competition (versus the same period in FY19)
 
-<br />
  
-- *Team Satisfaction:* I increased the overall engagement metric, from 52% to 83% during my tenure, by prioritising in-house development and cross-training, as well as, recruiting thoughtfully and affectively to support the team as the business rebounded.
+- ***Team Satisfaction:*** I increased the overall engagement metric, from 52% to 83% during my tenure, by prioritising in-house development and cross-training, as well as, recruiting affectively to support the team as the business rebounded.
  
-<br />
 
-- *Customer Satisfaction:* NPS increased from 35% to 81% during my tenure. The Goat's online review score from 3.9/5 to 4.8/5, in the last quarter of my employment, and I maintained a 'nil' official complaint rating.
+- ***Customer Satisfaction:*** NPS increased from 35% to 81% during my tenure. The Goat's online review score from 3.9/5 to 4.8/5, in the last quarter of my employment, and I maintained a 'nil' official complaint rating.
 
-<br />
  
-- *Health & Safety:* during my tenure, I achieved the highest possible 5;5 audit rating, and complemented this with a 5* EHO food rating.
+- ***Health & Safety:*** during my tenure, I achieved and maintained the highest possible 5;5 audit rating, and complemented this with a 5* EHO food rating.
 
-<br />
  
-These management skills are transferable to the Tech Industry. I have demonstrated my ability to affectively manage businesses and teams on a range of measures - something I wish to continue in my new career as I progress from Junior Developer to more senior positions.
+These management skills are transferable to the tech industry; I have demonstrated my ability to affectively manage businesses and teams on a range of measures - something I wish to continue in my new career as I progress from Junior Developer to more senior positions.
 
  <br />
 
@@ -89,6 +85,18 @@ Skills that were improved during this time included:
 These skills were developed further when the company expanded to a multi-site operation and I was offered a position overseeing all sites simultaneously.
 
 <br />
+
+## **Voluntary Consultancy Projects**
+#### **Black Cap Community Committee - 2021**
+I advised the grass-roots 'Black Cap Community Committee' - a group attempting to aquire, open and run a legendary queer venue in Camden.  
+
+Specifically, I wrote a detailed report on how to structure a business plan specifically for the Black Cap, and a separate report on venue acquistion, drawing on the experince of owning my own business, and constructing business plans for The Goat.
+
+#### **Greene King - various venues -  2014-2016**
+I shadowed my mentor, over a 2 year period, whilst he conducted on-demand consultancy work for Greene King's leasehold portfolio in North Hertfordshire. This provided me invaluable experience into operations and management, but overall, I most enjoyed discussing and troubleshooting business challenges with external operators.
+
+<br />
+
 
 
 ## **Skills**
