@@ -117,7 +117,7 @@ I’ve been able to adopt the same solution-focused and experimental approach to
 
 I have a keen innovative entrepreneurial streak demonstrated by my career in hospitality. My own site was a country pub in Cambridgeshire. I made it a priority to identify my key markets, elicit feedback and deliver over-an-above on their needs.
 
-With a mix of events and product tailoring, I established a loyal customer base that helped me develop my business. 'Pie Nights', 'Charity Curry Cook-offs' & 'Kids Film Evenings' were all ideas that were generated in collaboration with my team and my key customer demographics.
+With a mix of events and product tailoring, I established a loyal customer base that helped me grow my business; 'Pie Nights', 'Charity Curry Cook-offs' & 'Kids Film Evenings' were all ideas that were generated in collaboration with my team and my key customer demographics.
 
  <br />
 
@@ -143,7 +143,7 @@ For example, my most recent mentee, helped me understand different ways of worki
 
 ## **Education**
 
-### **Makers Academy** (December 2021 to April 2022)
+### **Makers Academy** *(December 2021 to April 2022)*
 
 - A 16 week, intensive coding course that empahsised the principles of OOP, TDD and Agile Project Work
 
@@ -153,12 +153,12 @@ For example, my most recent mentee, helped me understand different ways of worki
 
  
 
-### **Graduate Diploma in Law** - Nottingham University (2009 to 2010) - Pass with Merit
+### **Graduate Diploma in Law** - *Nottingham University (2009 to 2010) - Pass with Merit*
 
 
  
 
-### **BA Hons Philosophy** - Bristol University (2006 to 2009) - 2:1
+### **BA Hons Philosophy** - *Bristol University (2006 to 2009) - 2:1*
 
 - including the module - Formal Logic: 63%
 
@@ -166,10 +166,10 @@ For example, my most recent mentee, helped me understand different ways of worki
 
  
 
-### **ABC Diploma in Art & Design** - Falmouth University of Art (2005 to 2006)- Pass with Merit
+### **ABC Diploma in Art & Design** - *Falmouth University of Art (2005 to 2006)- Pass with Merit*
  
 
-### **International Baccalaureate** - Haileybury (2000 to 2005) - 39/45 -
+### **International Baccalaureate** - *Haileybury (2000 to 2005) - 39/45*
 - including: Higher Level Maths - 6/7 & Higher Level Biology 7/7 & Higher Level Philosophy 7/7
 
 - I was awarded my school's Philosophy Prize, upon graduating.
